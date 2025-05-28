@@ -2,6 +2,11 @@
 
 Ce projet a été réalisé en **binôme** dans le cadre du module **Bases de Données Relationnelles**. Il simule un système de gestion d'hôtel avec une base de données relationnelle et une interface web pour la consultation et l'ajout de données.
 
+Realise par:
+Assia MEZAROU
+Khaoula AIT ATTA
+
+
 ## 🛠️ Technologies utilisées
 
 - **MySQL Workbench** – modélisation et création de la base
